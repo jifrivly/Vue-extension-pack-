@@ -1,0 +1,28 @@
+{
+  "name": "vue-extension-pack",
+  "displayName": "Vue extension pack",
+  "description": "Vue extension pack",
+  "publisher": "jifri",
+  "repository": {
+    "url": "https://github.com/jifrivly/Vue-extension-pack"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "xabikos.JavaScriptSnippets",
+    "dbaeumer.vscode-eslint",
+    "Vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "octref.vetur",
+    "hollowtree.vue-snippets",
+    "sdras.vue-vscode-snippets",
+    "dbaeumer.jshint",
+    "mgmcdermott.vscode-language-babel",
+    "zenclabs.previewjs"
+  ]
+}
