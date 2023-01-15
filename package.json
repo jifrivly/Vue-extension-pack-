@@ -1,12 +1,12 @@
 {
-  "name": "vue-extension-pack",
+  "name": "vue-extension-pack-by-jifri",
   "displayName": "Vue extension pack",
   "description": "Vue extension pack",
   "publisher": "jifri",
   "repository": {
     "url": "https://github.com/jifrivly/Vue-extension-pack"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
