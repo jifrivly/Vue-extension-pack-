@@ -23,6 +23,8 @@
     "sdras.vue-vscode-snippets",
     "dbaeumer.jshint",
     "mgmcdermott.vscode-language-babel",
-    "zenclabs.previewjs"
+    "zenclabs.previewjs",
+    "antfu.vite",
+    "ZixuanChen.vitest-explorer"
   ]
 }
