@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/jifrivly/Vue-extension-pack"
   },
-  "version": "0.0.4",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -21,7 +21,6 @@
     "octref.vetur",
     "hollowtree.vue-snippets",
     "sdras.vue-vscode-snippets",
-    "dbaeumer.jshint",
     "mgmcdermott.vscode-language-babel",
     "zenclabs.previewjs",
     "antfu.vite",
